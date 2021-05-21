@@ -1,2 +1,1 @@
-# atari_software_pc
-pc software for atari use
+# pc software for atari use
